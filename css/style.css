@@ -107,6 +107,10 @@ nav {
   font-size: 0.9rem;
 }
 
+.hero-word {
+  white-space: nowrap;
+}
+
 .hero-letter {
   display: inline-block;
   color: var(--color-accent);
