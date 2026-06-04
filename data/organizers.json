@@ -78,15 +78,27 @@
       ]
     },
     {
-      "name": "Aleksandra Urman",
-      "affiliation": "University of Zurich",
-      "email_user": "urman",
-      "email_domain": "ifi.uzh.ch",
-      "photo": "assets/img/organizers/urman.jpg",
-      "website": "https://aleksandra-urman.ch/",
+      "name": "Debora Nozza",
+      "affiliation": "Bocconi University",
+      "email_user": "debora.nozza",
+      "email_domain": "unibocconi.it",
+      "photo": "assets/img/organizers/nozza.jpg",
+      "website": "https://www.deboranozza.com/",
       "links": [
-        { "label": "Bluesky", "url": "https://bsky.app/profile/aurman21.bsky.social" },
-        { "label": "Google Scholar", "url": "https://scholar.google.com/citations?user=ZMj9C4cAAAAJ&hl=en" }
+        { "label": "Bluesky", "url": "https://bsky.app/profile/deboranozza.bsky.social" },
+        { "label": "Google Scholar", "url": "https://scholar.google.it/citations?hl=it&user=AKi-UWQAAAAJ" }
+      ]
+    },
+    {
+      "name": "Isabelle Augenstein",
+      "affiliation": "University of Copenhagen",
+      "email_user": "augenstein",
+      "email_domain": "di.ku.dk",
+      "photo": "assets/img/organizers/augenstein.jpg",
+      "website": "https://isabelleaugenstein.github.io/",
+      "links": [
+        { "label": "X", "url": "https://twitter.com/IAugenstein" },
+        { "label": "Google Scholar", "url": "https://scholar.google.co.uk/citations?user=DjJp0dcAAAAJ&hl=en" }
       ]
     }
   ]
